@@ -1,0 +1,49 @@
+/****************************************EDIT TAG*******************************************/
+body {
+  background-color: #c3edea;
+  font-style: oblique;
+}
+
+hr {
+  border-style: dashed none none;
+  border-color: #142850;
+  border-width: 2px;
+  height: 0px;
+}
+
+/****************************************EDIT ID SETIAP HTML*******************************************/
+
+#Biodata{
+  color: #ff5200;
+}
+#HubungiSaya{
+  color: #fcbf1e;
+}
+#MenuHalamanAwal{
+  color: #bb3b0e;
+}
+#bodyIndex{
+  background-color: #c3edea;
+}
+#bodyBiodata{
+  background-color: #faf2f2;
+}
+#bodyHubungi{
+  background-color: #fff3cd;
+}
+/****************************************EDIT CLASS*******************************************/
+.mainHub{
+  color: red;
+}
+.pembatas{
+  border-style: dashed none none;
+  border-color: #142850;
+  border-width: 3px;
+  height: 0px;
+}
+.mainBiodata{
+  color: #ff5200;
+}
+.fontBio{
+  font-style: oblique;
+}
